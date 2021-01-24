@@ -4,7 +4,7 @@
 ## Description
 This is a workout tracker. It tracks the user's workouts and the exercises they did while working out. It store the information in a mongoDb. You can view the stats and a summary of all of your workouts.
 
-[Fitness Tracker Screenshot](./public/assets/WorkoutTracker.png)
+![Fitness Tracker Screenshot](./public/assets/WorkoutTracker.png)
 [Live Demo](https://workout-tracker-uofu.herokuapp.com/)
 [Github URL](https://github.com/HeavensRegent/nb-w17-homework)
 
